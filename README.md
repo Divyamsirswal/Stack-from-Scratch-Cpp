@@ -1,2 +1,2 @@
 # Stack-from-Scratch-Cpp
-Implementation of Stack Data Structure from Scratch in C++.
+Implementation of Stack Data Structure using Array from Scratch in C++.
